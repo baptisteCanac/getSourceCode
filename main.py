@@ -1,3 +1,4 @@
+# https://github.com/baptisteCanac
 from selenium import webdriver
 import pyperclip
 
