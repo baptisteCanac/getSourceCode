@@ -13,4 +13,4 @@ pyperclip.copy(htmlSource)
 
 driver.close()
 
-print("The text as been copied, you can copy it in a code or text editor")
+print("The text as been copied, you can paste it in a code or text editor")
